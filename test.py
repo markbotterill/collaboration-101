@@ -12,4 +12,4 @@ if __name__ == "__main__":
     result2 = capitalize_string("hello, world")
     print("Capitalized string:", result2)
   except:
-    print("Capitalize function still needed)
+    print("Capitalize function still needed")
